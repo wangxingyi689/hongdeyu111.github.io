@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳
+title: 于
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
